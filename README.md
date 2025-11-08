@@ -1,12 +1,12 @@
 ### 👋 Hello World! My name is Nhat Tran! ###
 
-Welcome to the @nhattranb github repository of mine! I'm a Senior Student in Information Technology at RMIT Vietnam.
+Welcome to my @nhattranb GitHub repository of mine! I'm a Senior Student in Information Technology at RMIT University Vietnam.
 Here is the place where I work and showcase my cool stuff in IT.
 
 ### My interests ###
-- 👀 I’m interested in Current Affairs IT and Chemistry
+- 👀 I’m interested in IT, STEM Education, and English for Education
 - 🌱 I’m currently learning as a senior in Information Technology
-- My Interests in IT include: DevOps, Software Quality Assurance, Cloud Computing, UI/UX Design and Cybersecurity
+- My Interests in IT include: DevOps, Software Quality Assurance and Testing, Cloud Computing, UI/UX Design, and Cybersecurity
 - 💞️ I’m looking to collaborate on all of those above sectors!
 
 ### My contacts ###
@@ -14,15 +14,17 @@ How to reach me
 - my student email
 - My personal email: <a href="mailto:minhnhat20032018@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 - OR can also contact via this alternative email: <a href="mailto:minhnhatt450@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-- Phone number: 0777716047
+- My Phone number: 0777716047
 - You can also checkout my [Linkedin Profile](https://www.linkedin.com/in/tr%E1%BA%A7n-minh-nh%E1%BA%ADt-137388274/) and my Facebook at [Facebook](https://www.facebook.com/nhat.minh.tran.851466)
 
-### My skills I learned from university and from my past experience ###
+### My skills I learned from university and from my experience ###
 
 #### Languages and Frameworks
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -31,14 +33,17 @@ How to reach me
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23b8a04d.svg?style=flat-square&logo=apache-tomcat&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 #### Databases and Cloud Computing
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?style=flat-square&logo=amazonaws&logoColor=white)
 
 #### Containers:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 
 #### System Admin Tools, DevOps & OS:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
