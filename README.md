@@ -1,12 +1,12 @@
 ### 👋 Hello World! My name is Nhat Tran! ###
 
-Welcome to my @nhattranb GitHub repository of mine! I'm a Senior Student in Information Technology at RMIT University Vietnam.
-Here is the place where I work and showcase my cool stuff in IT.
+Welcome to my @nhattranb GitHub repository of mine! I'm a fresh Graduate with a Bachelor of Information Technology at RMIT University Vietnam.
+Here is the place where I work and showcase my cool stuff in Information Technology.
 
 ### My interests ###
 - 👀 I’m interested in IT, STEM Education, and English for Education
 - 🌱 I’m currently learning as a senior in Information Technology
-- My Interests in IT include: DevOps, Software Quality Assurance and Testing, Cloud Computing, UI/UX Design, and Cybersecurity
+- My Interests in IT include: DevOps, Software Quality Assurance and Testing, Cloud Computing, Data Analytics, Business Analyst, UI/UX Design and Cybersecurity
 - 💞️ I’m looking to collaborate on all of those above sectors!
 
 ### My contacts ###
