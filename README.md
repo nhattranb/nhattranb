@@ -5,7 +5,7 @@ Here is the place where I work and showcase my cool stuff in Information Technol
 
 ### My interests ###
 - 👀 I’m interested in IT, STEM Education, and English for Education
-- 🌱 I have graduated with a Bachelor's in Information Technology. My experience includes working as a Business Analyst associate at THD Cybersecurity Company (12.2025 - 03.2026) and as a Technical Support Engineer at iTechWX Company Ltd (03.2026 - 04.2026)
+- 🌱 I have graduated with a Bachelor's in Information Technology. My experience includes working as a Business Analyst associate at THD Cybersecurity Company (12.2025 - 03.2026), Technical Support Engineer at iTechWX Company Ltd (03.2026 - 04.2026) and now back at THD Cybersecurity as Bridge Engineer (05.2026 - present)
 - My Interests in IT include: DevOps, Software Quality Assurance and Testing, Cloud Computing, Data Analytics, Business Analyst, UI/UX Design and Cybersecurity
 - 💞️ I’m looking to collaborate on all of those above sectors!
 
